@@ -14,7 +14,7 @@
 
 Mentioned in RoomieMatchReport.pdf file. 
 
-## User Interface Designs
+## User Interface
 
 ### Landing Page
 <img width="466" alt="image" src="https://github.com/user-attachments/assets/5427fc14-9c5e-4105-9d81-ef3efd3382f4">
