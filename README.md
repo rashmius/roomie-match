@@ -12,6 +12,7 @@
 ## Functional Requirements
 
 1.	User Profile Creation
+   
   a.	Users must create their profile & without profile features - roommate search, chat will not be accessible.
 
   b.	Users can't change their registered mail address and will be tied to mySlice logged-in email address.
@@ -34,6 +35,7 @@
   
 
 5.	Sending and Receiving Roommate Connection Requests
+   
   a.	Users can send a connection request to the received output from the search.
 
   b.	Users will be notified upon receiving a connection request via registered email.
@@ -50,6 +52,7 @@
   
 
 7.	Chat
+   
   a.	Receivers, only once accepting, can chat with the sender.
 
   b.	Chat can be done from both sides.
@@ -60,6 +63,7 @@
   
 
 9.	User Feedback and Ratings
+    
   a.	Feedback popup will be shown to users every time a user has been engaging in chat for a day with another user.
 
   b.	The feedback popup will contain a star-based rating system ranging from 1 to 5. This field will be mandatory
@@ -72,6 +76,7 @@
 
 
 1.	Privacy
+   
   a.	User data should be secured with industry-standard encryption.
 
   b.	User consent before collecting engagement data
@@ -84,6 +89,7 @@
   
 
 3.	Availability
+   
   a.	Minimum uptime of 95% of the roommate services.
 
   b.	Application monitoring to identify failures and plans to mitigate them should be made.
@@ -93,6 +99,7 @@
   d.	Application status is to be made available and integrated with mySlice status page.
 
 5.	Performance
+   
   a.	Maximum response time of search feature of 5 seconds.
 
   b.	Maximum response time of other requests of 2 seconds.
@@ -101,6 +108,7 @@
   
  
 7.	Usability
+   
   a.	The application should have a consistent design across all pages and functionalities.
 
   b.	Error messages should be present in case of any failures in the system.
@@ -111,6 +119,7 @@
   
 
 9.	Compatibility
+    
   a.	Support all browsers supported by MySlice, such as Google Chrome, Firefox, and Brave.
 
   b.	Support all mobile devices of various screen sizes, which mySlice supports.
@@ -118,6 +127,7 @@
 
 
 11.	Maintainability
+    
   a.	Maintenance will be performed as per existing MySlice maintenance schedules.
 
   b.	Support will only be provided by email with documentation and FAQ on MySlice website.
