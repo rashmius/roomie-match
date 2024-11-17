@@ -1,6 +1,8 @@
 
 # Roomie Match 
 
+A roommate-matching extension for Syracuse University's MySlice portal. Oversaw product vision, requirements gathering, stakeholder alignment, and roadmap planning to deliver a scalable, user-centric solution integrating filters, profile customization, and secure communication features.
+
 ## Objectives
 
 1.	Develop a user-friendly interface that allows users to connect and match with potential roommates easily.
